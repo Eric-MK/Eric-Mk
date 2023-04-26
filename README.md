@@ -1,6 +1,6 @@
 ![](https://forkdrop.io/images/article/github-banner@0,5x.png)
 
-<h1 align="center">Hi 👋, I'm Eric Mutunga</h1>
+<h1 align="center">Hi 👋, my name is Eric Mutunga</h1>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
