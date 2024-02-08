@@ -53,6 +53,9 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="matplotlib" width="40" height="40"/>
+</a>
 </p>
 
 
